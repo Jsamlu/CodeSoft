@@ -16,7 +16,7 @@ class GuessGame{
         return rand.nextInt(20);  
     }
     public void playGame(int value){            // main gameplay 
-        System.out.println(value);
+        // System.out.println(value);           //Random Gen No 
         int chances = 3;
       
         
